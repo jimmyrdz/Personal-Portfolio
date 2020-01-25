@@ -129,7 +129,7 @@ if (isset($_POST['submit_email'])) {
         // -- BELOW : EXAMPLE SEND YOU AN EMAIL ABOUT THE NEW USER (comment to disable it/ uncomment it to enable it)
         // Set the recipient email address.
         // IMPORTANT - FIXME: Update this to your desired email address (relative to your server domaine).
-        $recipient = "brianm0623@gmail.com";
+        $recipient = "ardzjaime@gmail.com";
 
         // Set the email subject.
         $subject = "Response from Portfolio";
